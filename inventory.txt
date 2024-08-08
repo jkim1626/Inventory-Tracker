@@ -1,0 +1,4 @@
+Drumsticks 20 14 19
+Potato_Chips 50 10 25
+Blackberries 10 6 10
+Pasta 200 10 20
